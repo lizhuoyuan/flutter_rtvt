@@ -1,7 +1,7 @@
 name: flutter_rtvt
 description: rtvt实时语音翻译的flutter版本
 version: 0.0.1
-homepage:
+homepage: 1
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
